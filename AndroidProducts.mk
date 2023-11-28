@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_zeus.mk
+    $(LOCAL_DIR)/twrp_zeus.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_zeus-user \
